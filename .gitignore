@@ -4,5 +4,3 @@ build
 *.iml
 ci/variables.yml
 /gradle/
-/gradlew
-/gradlew.bat
