@@ -46,6 +46,7 @@ dependencies {
     // end::actuator[]
     // tag::tests[]
     testCompile("org.springframework.boot:spring-boot-starter-test")
+    compile("com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.9.1")
     // end::tests[]
 }
 
