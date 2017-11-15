@@ -5,3 +5,5 @@ applications:
   host: rr-pal-tracker-production
   services:
   - tracker-database
+  env:
+    SECURITY_FORCE_HTTPS: true
